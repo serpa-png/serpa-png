@@ -1,15 +1,21 @@
-# serpa-png
-Software Engineering student and language enthusiast from Brazil.
+# 👨‍💻 Sobre mim
 
-💻 Learning HTML, CSS, JavaScript, Git, and Software Development Fundamentals.
+Sou estudante de Engenharia de Software, licenciado em Letras – Inglês e apaixonado por tecnologia, idiomas e aprendizado contínuo.
 
-🌎 Languages:
-• Portuguese (Native)
-• English (Fluent)
-• Spanish (Fluent)
-• French (Intermediate)
-• Italian (Intermediate)
+Atualmente estou desenvolvendo minhas habilidades em HTML, CSS, JavaScript, Git e GitHub, construindo uma base sólida para atuar no desenvolvimento de software.
 
-🎓 Bachelor's Degree in English Language and Literature.
+🌎 Idiomas:
+- 🇧🇷 Português (Nativo)
+- 🇺🇸 Inglês (Fluente)
+- 🇪🇸 Espanhol (Fluente)
+- 🇫🇷 Francês (Intermediário)
+- 🇮🇹 Italiano (Intermediário)
 
-Interested in Frontend Development, Software Engineering, Web Technologies, and Educational Technology.
+💡 Interesses:
+- Desenvolvimento Front-end e Mobile
+- Engenharia de Software
+- Tecnologias Web
+- Inteligência Artificial
+- Tecnologia na Educação
+
+🎯 Objetivo: ingressar na área de tecnologia e contribuir para projetos que gerem impacto real por meio do software.
