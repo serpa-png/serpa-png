@@ -3,7 +3,7 @@
 Sou estudante de Engenharia de Software, licenciado em Letras – Inglês e apaixonado por tecnologia, idiomas e aprendizado contínuo.
 📩 contato: serpa.vitorr@gmail.com
 
-Skills: 
+# Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
